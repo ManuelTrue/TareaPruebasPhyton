@@ -24,8 +24,8 @@ def numeros_amigos(número1, número2):
         return f"{número1} y {número2} no son amigos"
 
 def main():
-    número1 = 220
-    número2 = 284
+    número1 = 1184
+    número2 = 1210
     resultado = numeros_amigos(número1, número2)
     print(resultado)
 
